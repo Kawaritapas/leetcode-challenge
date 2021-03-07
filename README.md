@@ -1,4 +1,6 @@
 # leetcode-challenge
+code-
+
 var isValidBST = function(root, min=null, max=null) {   
 
     if(!root)
