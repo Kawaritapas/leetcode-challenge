@@ -1,6 +1,6 @@
 # leetcode-challenge
-var isValidBST = function(root, min=null, max=null) {
-    
+
+var isValidBST = function(root, min=null, max=null) {    
     if(!root)
     {
         return null;
